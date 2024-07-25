@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gerenciador de emprestimos", "tp bem mais novo que o muito mais novo\gerenciador de emprestimos.csproj", "{30D0EC2D-E788-48A4-ACB9-F670604B9200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D0EC2D-E788-48A4-ACB9-F670604B9200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D0EC2D-E788-48A4-ACB9-F670604B9200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D0EC2D-E788-48A4-ACB9-F670604B9200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D0EC2D-E788-48A4-ACB9-F670604B9200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9BC48E-FC4D-4E81-9117-C4C02EEB461D}
+	EndGlobalSection
+EndGlobal

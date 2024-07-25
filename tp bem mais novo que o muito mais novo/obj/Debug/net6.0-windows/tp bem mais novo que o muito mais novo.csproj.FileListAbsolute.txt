@@ -1,0 +1,56 @@
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.exe
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.deps.json
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.runtimeconfig.json
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.AssemblyReference.cache
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.Form1.resources
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.FormCriarUsuario.resources
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.GenerateResource.cache
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfoInputs.cache
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfo.cs
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.CoreCompileInputs.cache
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\tp bem mais novo que o muito mais novo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.genruntimeconfig.cache
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.exe
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.deps.json
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.runtimeconfig.json
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.Form1.resources
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.FormCriarUsuario.resources
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.GenerateResource.cache
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfoInputs.cache
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfo.cs
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.CoreCompileInputs.cache
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.genruntimeconfig.cache
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_bem_mais_novo_que_o_muito_mais_novo.QuitarEmprestimoForm.resources
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.AssemblyReference.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.exe
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.deps.json
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.runtimeconfig.json
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.Form1.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.FormCriarUsuario.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_bem_mais_novo_que_o_muito_mais_novo.QuitarEmprestimoForm.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.GenerateResource.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfoInputs.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.AssemblyInfo.cs
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.CoreCompileInputs.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.pdb
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.genruntimeconfig.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\ref\tp bem mais novo que o muito mais novo.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp bem mais novo que o muito mais novo.csproj.AssemblyReference.cache

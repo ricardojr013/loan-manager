@@ -1,0 +1,37 @@
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.exe
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.deps.json
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.runtimeconfig.json
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.pdb
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.Form1.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.FormCriarUsuario.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_bem_mais_novo_que_o_muito_mais_novo.QuitarEmprestimoForm.resources
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.csproj.GenerateResource.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.AssemblyInfoInputs.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.AssemblyInfo.cs
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.csproj.CoreCompileInputs.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\refint\gerenciador de emprestimos.dll
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.pdb
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.genruntimeconfig.cache
+D:\Engenharia de Software\PAGAR EMPRESTIMO\TP pagar empréstimo\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\ref\gerenciador de emprestimos.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.exe
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.deps.json
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.runtimeconfig.json
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\bin\Debug\net6.0-windows\gerenciador de emprestimos.pdb
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.Form1.resources
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_muito_mais_novo_do_q_o_mais_novo.FormCriarUsuario.resources
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\tp_bem_mais_novo_que_o_muito_mais_novo.QuitarEmprestimoForm.resources
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.csproj.GenerateResource.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.AssemblyInfoInputs.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.AssemblyInfo.cs
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.csproj.CoreCompileInputs.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.sourcelink.json
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\refint\gerenciador de emprestimos.dll
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.pdb
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\gerenciador de emprestimos.genruntimeconfig.cache
+C:\Users\rico8\OneDrive\Área de Trabalho\gerenciador de emprestimos\tp bem mais novo que o muito mais novo\obj\Debug\net6.0-windows\ref\gerenciador de emprestimos.dll
