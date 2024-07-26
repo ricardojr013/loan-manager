@@ -1,1 +1,1 @@
-Gerenciador de empréstimos feito em C#, atualmente consegue criar usuários, criar empréstimos e quitar empréstimos.
+Gerenciador de empréstimos feito em C# Windows Forms, atualmente consegue criar usuários, criar empréstimos e quitar empréstimos.
